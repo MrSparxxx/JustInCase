@@ -1,5 +1,4 @@
-
-Just In Case Official MOTD-
+                                                Just In Case Official MOTD
 
  Most of the rules are mentioned on this page. However, mistakes can still occur. Therefore, staff may enforce rules to fill up the loopholes that come up. If a player is found abusing these loopholes, warnings will be given followed up by a punishment if required.
 
@@ -39,7 +38,7 @@ General Rules:
 11. Evading a ban by using an alternate account will result in a permanent ban on both accounts.
 
 
-12. No Harassment towards players or staff. This includes homophobia, threats, racism, sexism, anti-religion, etc.  Depending on the severity, it can be a ZERO tolerance situation resulting in a ban. The ONLY exception is using the word ìNigga.î
+12. No Harassment towards players or staff. This includes homophobia, threats, racism, sexism, anti-religion, etc.  Depending on the severity, it can be a ZERO tolerance situation resulting in a ban. The ONLY exception is using the word ‚ÄúNigga.‚Äù
 
 13. No voice changers or soundboards; the only exception is DJs and Hobos.
 
@@ -64,13 +63,13 @@ However you MAY kill someone under these circumstances:
 
   They are raiding you
 
-  They have adverted ìKill Meî
+  They have adverted ‚ÄúKill Me‚Äù
 
   They have crossed a KOS line or went against a KOS sign you have placed
 
   You are mugging the player and they pull a gun/run away/shoot at you.
 
-  If Both players advert ìDuelî.
+  If Both players advert ‚ÄúDuel‚Äù.
 
 
 You MAY NOT kill someone under these circumstances:
@@ -129,7 +128,7 @@ Common Misunderstandings:
 10. Police officers and SWAT may only do random weapon checks inside the PD.
 
 
-11. Lightsabers can be made illegal, however, the lightsaber must be lit. A holstered lightsaber isnít an arrestable offence.
+11. Lightsabers can be made illegal, however, the lightsaber must be lit. A holstered lightsaber isn‚Äôt an arrestable offence.
 
 12. Civil Protection may only party with other CPs.
 
@@ -251,7 +250,7 @@ Building Rules:
 11. KOS lines are only allowed inside or around the base you own. You may make a line near or around the base entrance.
 
 
-12. Placing a ìBUILDINGî sign outside your base will keep other players from disturbing you during RP, however you may not have printers or a KOS sign while in use. If you come across a base with a building sign and are asked to leave, then do so.
+12. Placing a ‚ÄúBUILDING‚Äù sign outside your base will keep other players from disturbing you during RP, however you may not have printers or a KOS sign while in use. If you come across a base with a building sign and are asked to leave, then do so.
 
 
 13. No Mega-basing. Do not block off more than one building and/or a whole section of the map to use as your base. The only class that is exempt to this rule is Epic Edgelord 9000.
@@ -333,7 +332,7 @@ Raiding Rules:
 8. Bank Raid may only be performed by Bank Robbers or classes that have the same ability. There must be at least two PD members on this includes: Mayor, Police officers and or SWAT members.
 
 
-9. Raiding a base thatís open and has no props or printers in it is not allowed. An open base is defined as a base that you can walk into and freely explore the base without being attacked. 
+9. Raiding a base that‚Äôs open and has no props or printers in it is not allowed. An open base is defined as a base that you can walk into and freely explore the base without being attacked. 
 
 
 10. Paramedics cannot defib players in an active raid, only when that raid is over. 
@@ -353,7 +352,7 @@ Mugging Rules:
 3. You may not kill the player before waiting 10 seconds for them to drop the money, Unless they pull out a gun or run away.
 
 
-4. You must make it clear to another player that they are being mugged. Advert it, tell them physically and make sure theyíre aware of the situation. They cannot be AFK.
+4. You must make it clear to another player that they are being mugged. Advert it, tell them physically and make sure they‚Äôre aware of the situation. They cannot be AFK.
 
 
 5. When you are being mugged you may defend yourself by running away or shooting back.
@@ -371,7 +370,7 @@ Kidnapping Rules:
 1. You may defend yourself if someone is trying to kidnap you.
 
 
-2. Once you are inside the kidnapperís base you may not use anything in your inventory, including guns. This is FailRP.
+2. Once you are inside the kidnapper‚Äôs base you may not use anything in your inventory, including guns. This is FailRP.
 
 
 3. The maximum money for ransom is $100,000
@@ -400,7 +399,7 @@ Civil Protection Rules:
 6. Civil Protection members are NOT allowed to arrest hobos during a lockdown since they have no home.
 
 
-7. Do not randomly weapon check someone unless theyíre inside the PD.
+7. Do not randomly weapon check someone unless they‚Äôre inside the PD.
 
 
 8. Do not raid without a warrant. A building open to the public does not require a warrant to go into unless there is a closed-off private area such as a back room.
@@ -442,26 +441,26 @@ Default Laws Of The Land:
 1. Do not attack other citizens except in self-defense. (AOS/KOS)
 
 
-2. Do not steal or break into peopleís homes. (AOS/KOS)
+2. Do not steal or break into people‚Äôs homes. (AOS/KOS)
 
 
 3. Money printers/drugs are illegal. (AOS/KOS)
 
 Mayor Commands:
 
-ì/Lockdownî Will start a lockdown. Lockdowns mean that nobody should be out of their homes. To end this lockdown use ì/unlockdownî (Reasons for lockdown: Adding Laws, PD Being Raided etc.)
+‚Äú/Lockdown‚Äù Will start a lockdown. Lockdowns mean that nobody should be out of their homes. To end this lockdown use ‚Äú/unlockdown‚Äù (Reasons for lockdown: Adding Laws, PD Being Raided etc.)
 
-ì/placelawsî Places a Law Board where youíre looking.
+‚Äú/placelaws‚Äù Places a Law Board where you‚Äôre looking.
 
-ì/addlaw (law)î
+‚Äú/addlaw (law)‚Äù
 
 Example = /addlaw Raiding is AOS/KOS. This will add a law to your law board.
 
-ì/removelaw (law number)î
+‚Äú/removelaw (law number)‚Äù
 
 Example = /removelaw 4. This will remove a law off the law board.
 
-ì/resetlawsî This will wipe the law board. Only laws 1-3 will stay.
+‚Äú/resetlaws‚Äù This will wipe the law board. Only laws 1-3 will stay.
 
 Donation Rules:
 
@@ -480,7 +479,7 @@ Type !donate (or !shop) to make a donation through our donation system.
 4. Once you buy a rank, be sure you fill out a requesting tag in the Discord Server in case of a rank reset.
 
 
-5. If a staff member suspects you have an item you shouldnít, they may try to confirm you have purchased said item.
+5. If a staff member suspects you have an item you shouldn‚Äôt, they may try to confirm you have purchased said item.
 
 Rules Created and Edited by the Just In Case High Staff Team
 Please Take Questions Regarding Rules That Cannot be Answered by Middle Staff and Below to High Staff.
